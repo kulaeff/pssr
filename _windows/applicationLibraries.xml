@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/styled-components" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
