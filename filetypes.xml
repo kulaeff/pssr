@@ -4,6 +4,7 @@
       <mapping pattern="nginx_vhost" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="warning-30" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
