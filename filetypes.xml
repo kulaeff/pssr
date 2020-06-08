@@ -6,8 +6,8 @@
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="nginx_vhost" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
