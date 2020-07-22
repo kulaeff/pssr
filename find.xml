@@ -21,7 +21,7 @@
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*.tsx</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
