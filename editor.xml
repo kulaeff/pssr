@@ -11,6 +11,10 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
     <option name="COLLAPSE_METHOD_BODY" value="true" />
